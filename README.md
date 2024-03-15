@@ -27,7 +27,7 @@ The Job Application Management System is a web application designed to streamlin
 
 1. Clone the repository: `git clone <repository_url>`
 2. Install dependencies: `npm install`
-3. Set up environment variables by creating a `.env` file and adding necessary configurations depending on the .envExample file in the config folder.
+3. Set up environment variables by creating a `.env` file and adding necessary configurations depending on the `.envExample` file in the config folder.
 4. Start the server: `npm start`
 
 ## API Documentation
